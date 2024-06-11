@@ -1,0 +1,5 @@
+#192.168.122.226 ansible_user=basha ansible_ssh_pass=basha@123 ansible_become_pass=basha@123
+db_name: employee_db
+db_user: db_user
+db_password: Passw0rd
+mysql_root_password: root@123

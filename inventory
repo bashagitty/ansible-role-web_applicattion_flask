@@ -1,0 +1,4 @@
+[db_and_web_servers]
+192.168.122.110 ansible_user=basha ansible_ssh_pass=basha@123 ansible_become_pass=basha@123
+#192.168.122.188 ansible_user=basha ansible_ssh_pass=basha@123 ansible_become_pass=basha@123
+#192.168.122.32 ansible_user=basha ansible_ssh_pass=basha@123 ansible_become_pass=basha@123
